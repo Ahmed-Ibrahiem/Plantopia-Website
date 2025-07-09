@@ -1,0 +1,29 @@
+.gap_5{
+    gap: 5px;
+}
+.gap_10{
+    gap: 10px;
+}
+.gap_20{
+    gap: 20px;
+}
+.gap_30{
+    gap: 30px;
+}
+.display_f{
+    display: flex;
+}
+.dis_space_between{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dis_align_center{
+    display: flex;
+    align-items: center;
+}
+.dis_center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

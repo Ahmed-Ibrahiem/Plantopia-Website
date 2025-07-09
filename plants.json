@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "img": "images/image1.png",
+    "title": "Calathea Orbifolia Plant",
+    "type": "Succulent",
+    "details": "Striped tropical leaves, thrives in shade, weekly watering.",
+    "price": 359
+  },
+  {
+    "id": 2,
+    "img": "images/image2.png",
+    "title": "Monstera Deliciosa Vine",
+    "type": "Dragon",
+    "details": "Split-leaf design, fast-growing, purifies air.",
+    "price": 499
+  },
+  {
+    "id": 3,
+    "img": "images/image3.png",
+    "title": "Fiddle Leaf Fig",
+    "type": "Variety",
+    "details": "Large violin-shaped leaves, loves indirect sunlight.",
+    "price": 899
+  },
+  {
+    "id": 5,
+    "img": "images/image5.png",
+    "title": "Peace Lily",
+    "type": "Succulent",
+    "details": "White blooms, removes toxins, shade tolerant.",
+    "price": 349
+  },
+  {
+    "id": 6,
+    "img": "images/image6.png",
+    "title": "Rubber Plant",
+    "type": "Dragon",
+    "details": "Glossy leaves, grows tall, easy care.",
+    "price": 599
+  },
+  {
+    "id": 7,
+    "img": "images/image7.png",
+    "title": "Aloe Vera",
+    "type": "Variety",
+    "details": "Healing gel, sun-loving, drought resistant.",
+    "price": 199
+  },
+  {
+    "id": 8,
+    "img": "images/image8.png",
+    "title": "Spider Plant",
+    "type": "Succulent",
+    "details": "Variegated leaves, produces babies, air purifier.",
+    "price": 249
+  },
+  {
+    "id": 9,
+    "img": "images/image9.png",
+    "title": "ZZ Plant",
+    "type": "Variety",
+    "details": "Waxy leaves, survives neglect, drought tolerant.",
+    "price": 399
+  },
+  {
+    "id": 10,
+    "img": "images/image10.png",
+    "title": "Pothos Golden",
+    "type": "Dragon",
+    "details": "Heart-shaped leaves, grows anywhere, easy propagation.",
+    "price": 279
+  },
+  {
+    "id": 11,
+    "img": "images/image11.png",
+    "title": "Bird's Nest",
+    "type": "Variety",
+    "details": "Wavy leaves, humidity lover, compact growth.",
+    "price": 329
+  },
+  {
+    "id": 12,
+    "img": "images/image12.png",
+    "title": "String of Pearls",
+    "type": "Succulent",
+    "details": "Bead-like foliage, cascading habit, bright light.",
+    "price": 449
+  },
+  {
+    "id": 13,
+    "img": "images/image13.png",
+    "title": "Chinese Money Plant",
+    "type": "Variety",
+    "details": "Round flat leaves, fast propagation, trendy.",
+    "price": 379
+  },
+  {
+    "id": 14,
+    "img": "images/image14.png",
+    "title": "Dracaena Marginata",
+    "type": "Dragon",
+    "details": "Red-edged leaves, architectural form, slow growing.",
+    "price": 549
+  }
+]
